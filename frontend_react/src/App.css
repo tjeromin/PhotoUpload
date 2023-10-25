@@ -1,0 +1,12 @@
+.hover-background:hover {
+    background: gray;
+}
+
+.max-width-25em {
+    max-width: 25em;
+}
+
+.grid {
+    display: grid;
+    place-items: center;
+}
